@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+body {
+  background: #121212;
+  font-family:Source Code Pro;
+}
+.hidden {
+  opacity:0;
+}
+
+.console-container {
+  font-size:2em;
+  text-align:left;
+  height:auto;
+  width:70%;
+  display:block;
+  color:white;
+  position:absolute;;
+  top:20px;
+  /*bottom:20px;*/
+  left:20px;
+  /*right:0;*/
+  margin:auto;
+}
+
+.console-underscore {
+  display:inline-block;
+  position:relative;
+  top:-0.14em;
+  left:10px;
+}
+
+.contact {
+  font-size:1em;
+  line-height: 1.5em;
+  color:white;
+  position:absolute;;
+  /*top:20px;*/
+  bottom:20px;
+  left:20px;
+  /*right:0;*/
+  margin:auto;
+}
+
+.contact a {
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;;
+}
+
+.portfolio {
+  color: #D0B669;
+}
+
+.dribbble {
+  color: #EA4C89;
+}
+
+.linkedIn {
+  color: #0077B5;
+}
