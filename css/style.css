@@ -7,14 +7,14 @@ body {
   opacity:0;
 }
 
-.console-container {
+.messages-container {
   font-size:2em;
   text-align:left;
   height:auto;
   width:70%;
   display:block;
   color:white;
-  position:absolute;;
+  position:absolute;
   top:20px;
   /*bottom:20px;*/
   left:20px;

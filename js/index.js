@@ -1,5 +1,5 @@
 // function([string1, string2],target id,[color1,color2])
-terminalText(['is probably eating tacos', 'is taking way too long updating his website', 'is learning to do cool things with javascript', 'is a designer', 'is eating tacos again', 'won the "free foodie" award at his workplace', 'is ashamed of the "free foodie" award', 'spent too much time thinking up <strike>clever</strike> things to say on this temporary page'], 'text');
+terminalText(['is probably eating tacos', 'is taking way too long updating his website', 'is learning how to do cool things with javascript', 'is a designer', 'is eating tacos again', 'won the "free foodie" award at his workplace', 'is ashamed of the "free foodie" award', 'spent too much time thinking up <strike>clever</strike> things to say on this temporary page'], 'text');
 
 function terminalText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
