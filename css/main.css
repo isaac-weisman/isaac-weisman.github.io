@@ -3,10 +3,10 @@
    ========================================================================== */
 
 html {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Karla', sans-serif;
     color: #333333;
     font-size: 1em;
-    line-height: 1.4;
+    line-height: 1.5;
     background: url(#) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -129,21 +129,16 @@ a:hover{
 
 h1 {
     font-size: 3em;
-    color: bluel
+    font-weight: bold;
 }
 
 h2 {
-    font-size: 1.7em;
+    font-size: 2em;
 }
 
 .social {
-    position: fixed;
-    bottom: 0;
-    background-color: #eee;
-
-    padding: 15px;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 i {
