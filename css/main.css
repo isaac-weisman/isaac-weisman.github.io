@@ -149,8 +149,10 @@ h2 {
 
 
 .social {
+    margin-top: 2em;
     font-size: 20px;
     text-align: left;
+    color: #b7b4aa;
 }
 
 i {
